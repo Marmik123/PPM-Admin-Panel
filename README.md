@@ -1,4 +1,4 @@
-## PPM Admin Panel
+## PPM Admin Panel - Paper Package Marketing
 
 Brief Idea:
 Project based on Marketing ideas and advertisements on Paper Cups or plastic packaging items like  bags or Handy-Portable Drinking Plastic Cups. 
